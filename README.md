@@ -1,15 +1,16 @@
 # BestIP
 
+```
 ## 优选官方IP域名
 
 ### IPv4
-- ```shellv4.ymyuuu.fun```
+- `shellv4.ymyuuu.fun`
 
 ### IPv6
-- `v6.ymyuuu.fun`
+- `shellv6.ymyuuu.fun`
 
 ## 优选反代IP域名
-- `cf.yumy.gay`
+- `shellcf.yumy.gay`
 
 ## 端口信息
 
