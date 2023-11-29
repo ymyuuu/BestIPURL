@@ -3,13 +3,19 @@
 ## 优选官方IP域名
 
 ### IPv4
-- `shellv4.ymyuuu.fun`
+```shell
+v4.ymyuuu.fun
+```
 
 ### IPv6
-- `v6.ymyuuu.fun`
+```shell
+v6.ymyuuu.fun
+```
 
 ## 优选反代IP域名
-- `cf.yumy.gay`
+```shell
+cf.yumy.gay
+```
 
 ## 端口信息
 
