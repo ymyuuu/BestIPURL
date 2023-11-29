@@ -3,7 +3,7 @@
 ## 优选官方IP域名
 
 ### IPv4
-- v4.ymyuuu.fun
+- `v4.ymyuuu.fun`
 
 ### IPv6
 - `v6.ymyuuu.fun`
