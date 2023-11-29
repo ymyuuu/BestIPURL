@@ -1,4 +1,4 @@
-# BestIP
+# BestIPURL
 
 ## 优选官方IP域名
 
