@@ -3,10 +3,10 @@
 ## 优选官方IP域名
 
 ### IPv4
-- `v4.ymyuuu.fun`
+- `v4.yumy.gay`
 
 ### IPv6
-- `v6.ymyuuu.fun`
+- `v6.yumy.gay`
 
 ## 优选反代IP域名
 - `cf.yumy.gay`
