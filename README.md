@@ -9,13 +9,13 @@
 ## 优选官方IP域名
 
 ### IPv4
-- `v4.ymy.gay`
+- `four.ymy.gay`
 
 ### IPv6
-- `v6.ymy.gay`
+- `six.ymy.gay`
 
 ## 优选反代IP域名
-- `cf.ymy.gay`
+- `0101.ymy.gay`
 
 ## 端口信息
 
