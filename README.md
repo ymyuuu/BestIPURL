@@ -5,14 +5,10 @@
 
 ## 优选官方IP域名
 
-### IPv4
-- `four.ymy.gay`
-
-### IPv6
-- `six.ymy.gay`
+- `bestcf.ymy.gay`
 
 ## 优选反代IP域名
-- `0101.ymy.gay`
+- `bestproxy.ymy.gay`
 
 ## 端口信息
 
