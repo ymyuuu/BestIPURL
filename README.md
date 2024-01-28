@@ -14,6 +14,8 @@
 
 - `my-telegram-is-herocore.onecf.eu.org`
 
+**bestcf 和 bestproxy 无其他问题以后不做更改**
+
 ## 端口信息
 
 ### HTTP
