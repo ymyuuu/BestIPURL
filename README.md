@@ -10,6 +10,10 @@
 ## 优选反代IP域名
 - `bestproxy.ymy.gay`
 
+## 第九行优化域名
+
+- `onecf.eu.org`
+
 ## 端口信息
 
 ### HTTPS
